@@ -64,16 +64,17 @@ export async function resizeImage(
   if (fileOrBlob.type === "image/svg+xml") {
     return fileToImage(fileOrBlob);
   } else {
-    const defaultOptions = {
-      quality: 0.7,
-      maxWidth: 800,
-      maxHeight: 800,
-      mimeType: fileOrBlob.type,
-    };
-    const resizedImage = await readAndCompressImage(
-      fileOrBlob,
-      Object.assign(defaultOptions, options)
-    );
-    return await blobToImage(resizedImage);
+    // Чтобы не было ресайза картинки, иначе теряется качество
+    // const defaultOptions = {
+    //   quality: 1,
+    //   maxWidth: 1200,
+    //   maxHeight: 1200,
+    //   mimeType: fileOrBlob.type,
+    // };
+    // const resizedImage = await readAndCompressImage(
+    //   fileOrBlob,
+    //   Object.assign(defaultOptions, options)
+    // );    
+    return await blobToImage(fileOrBlob);
   }
 }
