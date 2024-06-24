@@ -17,4 +17,4 @@ title: "Disposable"
 
 #### Source
 
-[std/typed-event.ts:11](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/std/typed-event.ts#L11)
+[std/typed-event.ts:11](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/std/typed-event.ts#L11)

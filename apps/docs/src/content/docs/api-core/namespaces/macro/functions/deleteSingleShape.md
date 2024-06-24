@@ -23,4 +23,4 @@ A macro to delete a shape
 
 ## Source
 
-[macro.ts:505](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/macro.ts#L505)
+[macro.ts:505](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/macro.ts#L505)

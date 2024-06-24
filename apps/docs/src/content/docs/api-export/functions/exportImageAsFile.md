@@ -27,4 +27,4 @@ Export doc image as a file
 
 ## Source
 
-[index.ts:178](https://github.com/dgmjs/dgmjs/blob/main/packages/export/src/index.ts#L178)
+[index.ts:178](https://github.com/dakhetov/dgmjs/blob/main/packages/export/src/index.ts#L178)

@@ -21,4 +21,4 @@ Returns whether a rect overlap (or contains) a line
 
 ## Source
 
-[graphics/geometry.ts:258](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/geometry.ts#L258)
+[graphics/geometry.ts:258](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/geometry.ts#L258)

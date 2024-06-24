@@ -23,4 +23,4 @@ Copy page image to clipboard
 
 ## Source
 
-[index.ts:207](https://github.com/dgmjs/dgmjs/blob/main/packages/export/src/index.ts#L207)
+[index.ts:207](https://github.com/dakhetov/dgmjs/blob/main/packages/export/src/index.ts#L207)

@@ -33,7 +33,7 @@ Hand Handler
 
 #### Source
 
-[editor.ts:1337](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1337)
+[editor.ts:1337](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1337)
 
 ## Properties
 
@@ -43,7 +43,7 @@ Hand Handler
 
 #### Source
 
-[handlers/hand-handler.ts:25](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L25)
+[handlers/hand-handler.ts:25](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L25)
 
 ***
 
@@ -53,7 +53,7 @@ Hand Handler
 
 #### Source
 
-[handlers/hand-handler.ts:24](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L24)
+[handlers/hand-handler.ts:24](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L24)
 
 ***
 
@@ -63,7 +63,7 @@ Hand Handler
 
 #### Source
 
-[handlers/hand-handler.ts:23](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L23)
+[handlers/hand-handler.ts:23](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L23)
 
 ***
 
@@ -73,7 +73,7 @@ Hand Handler
 
 #### Source
 
-[handlers/hand-handler.ts:26](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L26)
+[handlers/hand-handler.ts:26](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L26)
 
 ***
 
@@ -83,7 +83,7 @@ Hand Handler
 
 #### Source
 
-[handlers/hand-handler.ts:27](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L27)
+[handlers/hand-handler.ts:27](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L27)
 
 ***
 
@@ -97,7 +97,7 @@ Hand Handler
 
 #### Source
 
-[editor.ts:1334](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1334)
+[editor.ts:1334](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1334)
 
 ***
 
@@ -111,7 +111,7 @@ Hand Handler
 
 #### Source
 
-[editor.ts:1335](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
+[editor.ts:1335](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
 
 ## Methods
 
@@ -135,7 +135,7 @@ Activate the handler
 
 #### Source
 
-[editor.ts:1363](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1363)
+[editor.ts:1363](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1363)
 
 ***
 
@@ -159,7 +159,7 @@ Trigger when the handler action is complete
 
 #### Source
 
-[editor.ts:1354](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1354)
+[editor.ts:1354](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1354)
 
 ***
 
@@ -183,7 +183,7 @@ Deactivate the handler
 
 #### Source
 
-[editor.ts:1371](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1371)
+[editor.ts:1371](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1371)
 
 ***
 
@@ -207,7 +207,7 @@ Draw ghost for the selected shape
 
 #### Source
 
-[editor.ts:1416](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1416)
+[editor.ts:1416](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1416)
 
 ***
 
@@ -233,7 +233,7 @@ keyDown
 
 #### Source
 
-[editor.ts:1406](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1406)
+[editor.ts:1406](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1406)
 
 ***
 
@@ -259,7 +259,7 @@ keyUp
 
 #### Source
 
-[editor.ts:1411](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1411)
+[editor.ts:1411](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1411)
 
 ***
 
@@ -283,7 +283,7 @@ Triggered when activated
 
 #### Source
 
-[handlers/hand-handler.ts:77](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L77)
+[handlers/hand-handler.ts:77](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L77)
 
 ***
 
@@ -307,7 +307,7 @@ Triggered when deactivate
 
 #### Source
 
-[handlers/hand-handler.ts:81](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L81)
+[handlers/hand-handler.ts:81](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L81)
 
 ***
 
@@ -333,7 +333,7 @@ handle pointer down event
 
 #### Source
 
-[handlers/hand-handler.ts:40](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L40)
+[handlers/hand-handler.ts:40](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L40)
 
 ***
 
@@ -359,7 +359,7 @@ handle pointer move event
 
 #### Source
 
-[handlers/hand-handler.ts:55](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L55)
+[handlers/hand-handler.ts:55](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L55)
 
 ***
 
@@ -385,7 +385,7 @@ handle pointer up event
 
 #### Source
 
-[handlers/hand-handler.ts:69](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L69)
+[handlers/hand-handler.ts:69](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L69)
 
 ***
 
@@ -405,4 +405,4 @@ Reset the states of handler
 
 #### Source
 
-[handlers/hand-handler.ts:29](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L29)
+[handlers/hand-handler.ts:29](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/hand-handler.ts#L29)

@@ -23,7 +23,7 @@ Selection Manager
 
 #### Source
 
-[selection-manager.ts:28](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L28)
+[selection-manager.ts:28](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L28)
 
 ## Properties
 
@@ -33,7 +33,7 @@ Selection Manager
 
 #### Source
 
-[selection-manager.ts:24](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L24)
+[selection-manager.ts:24](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L24)
 
 ***
 
@@ -43,7 +43,7 @@ Selection Manager
 
 #### Source
 
-[selection-manager.ts:26](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L26)
+[selection-manager.ts:26](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L26)
 
 ***
 
@@ -53,7 +53,7 @@ Selection Manager
 
 #### Source
 
-[selection-manager.ts:25](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L25)
+[selection-manager.ts:25](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L25)
 
 ## Methods
 
@@ -73,7 +73,7 @@ Deselect the given shapes.
 
 #### Source
 
-[selection-manager.ts:132](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L132)
+[selection-manager.ts:132](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L132)
 
 ***
 
@@ -89,7 +89,7 @@ Deselect all shapes.
 
 #### Source
 
-[selection-manager.ts:144](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L144)
+[selection-manager.ts:144](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L144)
 
 ***
 
@@ -109,7 +109,7 @@ Returns bounding rect of selected shapes
 
 #### Source
 
-[selection-manager.ts:154](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L154)
+[selection-manager.ts:154](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L154)
 
 ***
 
@@ -129,7 +129,7 @@ Returns enclosure of selected shapes
 
 #### Source
 
-[selection-manager.ts:172](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L172)
+[selection-manager.ts:172](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L172)
 
 ***
 
@@ -147,7 +147,7 @@ an array of selected shapes.
 
 #### Source
 
-[selection-manager.ts:58](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L58)
+[selection-manager.ts:58](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L58)
 
 ***
 
@@ -167,7 +167,7 @@ isChanged
 
 #### Source
 
-[selection-manager.ts:37](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L37)
+[selection-manager.ts:37](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L37)
 
 ***
 
@@ -185,7 +185,7 @@ isChanged
 
 #### Source
 
-[selection-manager.ts:69](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L69)
+[selection-manager.ts:69](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L69)
 
 ***
 
@@ -205,7 +205,7 @@ Select shapes
 
 #### Source
 
-[selection-manager.ts:76](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L76)
+[selection-manager.ts:76](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L76)
 
 ***
 
@@ -225,7 +225,7 @@ Select additional shapes
 
 #### Source
 
-[selection-manager.ts:84](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L84)
+[selection-manager.ts:84](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L84)
 
 ***
 
@@ -241,7 +241,7 @@ Select all shapes in the current page
 
 #### Source
 
-[selection-manager.ts:119](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L119)
+[selection-manager.ts:119](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L119)
 
 ***
 
@@ -267,7 +267,7 @@ Select shapes overlap the given area in the current page.
 
 #### Source
 
-[selection-manager.ts:96](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L96)
+[selection-manager.ts:96](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L96)
 
 ***
 
@@ -283,4 +283,4 @@ Return the number of selections
 
 #### Source
 
-[selection-manager.ts:65](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/selection-manager.ts#L65)
+[selection-manager.ts:65](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/selection-manager.ts#L65)

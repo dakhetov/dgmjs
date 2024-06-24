@@ -9,4 +9,4 @@ title: "PageSize"
 
 ## Source
 
-[shapes.ts:73](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/shapes.ts#L73)
+[shapes.ts:73](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/shapes.ts#L73)

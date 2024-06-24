@@ -33,7 +33,7 @@ Freehand Factory Handler
 
 #### Source
 
-[editor.ts:1337](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1337)
+[editor.ts:1337](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1337)
 
 ## Properties
 
@@ -43,7 +43,7 @@ Freehand Factory Handler
 
 #### Source
 
-[handlers/freehand-handler.ts:29](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L29)
+[handlers/freehand-handler.ts:29](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L29)
 
 ***
 
@@ -53,7 +53,7 @@ Freehand Factory Handler
 
 #### Source
 
-[handlers/freehand-handler.ts:27](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L27)
+[handlers/freehand-handler.ts:27](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L27)
 
 ***
 
@@ -63,7 +63,7 @@ Freehand Factory Handler
 
 #### Source
 
-[handlers/freehand-handler.ts:26](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L26)
+[handlers/freehand-handler.ts:26](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L26)
 
 ***
 
@@ -73,7 +73,7 @@ Freehand Factory Handler
 
 #### Source
 
-[handlers/freehand-handler.ts:25](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L25)
+[handlers/freehand-handler.ts:25](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L25)
 
 ***
 
@@ -83,7 +83,7 @@ Freehand Factory Handler
 
 #### Source
 
-[handlers/freehand-handler.ts:28](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L28)
+[handlers/freehand-handler.ts:28](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L28)
 
 ***
 
@@ -97,7 +97,7 @@ Freehand Factory Handler
 
 #### Source
 
-[editor.ts:1334](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1334)
+[editor.ts:1334](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1334)
 
 ***
 
@@ -111,7 +111,7 @@ Freehand Factory Handler
 
 #### Source
 
-[editor.ts:1335](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
+[editor.ts:1335](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
 
 ***
 
@@ -121,7 +121,7 @@ Freehand Factory Handler
 
 #### Source
 
-[handlers/freehand-handler.ts:30](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L30)
+[handlers/freehand-handler.ts:30](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L30)
 
 ## Methods
 
@@ -145,7 +145,7 @@ Activate the handler
 
 #### Source
 
-[editor.ts:1363](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1363)
+[editor.ts:1363](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1363)
 
 ***
 
@@ -169,7 +169,7 @@ Trigger when the handler action is complete
 
 #### Source
 
-[editor.ts:1354](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1354)
+[editor.ts:1354](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1354)
 
 ***
 
@@ -193,7 +193,7 @@ Deactivate the handler
 
 #### Source
 
-[editor.ts:1371](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1371)
+[editor.ts:1371](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1371)
 
 ***
 
@@ -217,7 +217,7 @@ Draw ghost for the selected shape
 
 #### Source
 
-[editor.ts:1416](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1416)
+[editor.ts:1416](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1416)
 
 ***
 
@@ -237,7 +237,7 @@ Draw ghost for the selected shape
 
 #### Source
 
-[handlers/freehand-handler.ts:71](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L71)
+[handlers/freehand-handler.ts:71](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L71)
 
 ***
 
@@ -257,7 +257,7 @@ Draw ghost for the selected shape
 
 #### Source
 
-[handlers/freehand-handler.ts:41](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L41)
+[handlers/freehand-handler.ts:41](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L41)
 
 ***
 
@@ -283,7 +283,7 @@ keyDown
 
 #### Source
 
-[handlers/freehand-handler.ts:126](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L126)
+[handlers/freehand-handler.ts:126](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L126)
 
 ***
 
@@ -309,7 +309,7 @@ keyUp
 
 #### Source
 
-[editor.ts:1411](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1411)
+[editor.ts:1411](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1411)
 
 ***
 
@@ -333,7 +333,7 @@ Triggered when activated
 
 #### Source
 
-[handlers/freehand-handler.ts:136](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L136)
+[handlers/freehand-handler.ts:136](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L136)
 
 ***
 
@@ -357,7 +357,7 @@ Triggered when deactivate
 
 #### Source
 
-[handlers/freehand-handler.ts:140](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L140)
+[handlers/freehand-handler.ts:140](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L140)
 
 ***
 
@@ -383,7 +383,7 @@ pointerDown
 
 #### Source
 
-[handlers/freehand-handler.ts:87](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L87)
+[handlers/freehand-handler.ts:87](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L87)
 
 ***
 
@@ -409,7 +409,7 @@ pointerMove
 
 #### Source
 
-[handlers/freehand-handler.ts:102](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L102)
+[handlers/freehand-handler.ts:102](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L102)
 
 ***
 
@@ -435,7 +435,7 @@ pointerUp
 
 #### Source
 
-[handlers/freehand-handler.ts:117](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L117)
+[handlers/freehand-handler.ts:117](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L117)
 
 ***
 
@@ -455,7 +455,7 @@ Reset the states of handler
 
 #### Source
 
-[handlers/freehand-handler.ts:32](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L32)
+[handlers/freehand-handler.ts:32](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L32)
 
 ***
 
@@ -475,4 +475,4 @@ Reset the states of handler
 
 #### Source
 
-[handlers/freehand-handler.ts:53](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L53)
+[handlers/freehand-handler.ts:53](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/freehand-handler.ts#L53)

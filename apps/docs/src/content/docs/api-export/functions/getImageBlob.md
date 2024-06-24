@@ -23,4 +23,4 @@ Get Blob image data of doc
 
 ## Source
 
-[index.ts:88](https://github.com/dgmjs/dgmjs/blob/main/packages/export/src/index.ts#L88)
+[index.ts:88](https://github.com/dakhetov/dgmjs/blob/main/packages/export/src/index.ts#L88)

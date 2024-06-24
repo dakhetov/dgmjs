@@ -33,7 +33,7 @@ Text Factory Handler
 
 #### Source
 
-[editor.ts:1337](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1337)
+[editor.ts:1337](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1337)
 
 ## Properties
 
@@ -47,7 +47,7 @@ Text Factory Handler
 
 #### Source
 
-[editor.ts:1334](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1334)
+[editor.ts:1334](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1334)
 
 ***
 
@@ -61,7 +61,7 @@ Text Factory Handler
 
 #### Source
 
-[editor.ts:1335](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
+[editor.ts:1335](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
 
 ***
 
@@ -71,7 +71,7 @@ Text Factory Handler
 
 #### Source
 
-[handlers/text-handler.ts:24](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/text-handler.ts#L24)
+[handlers/text-handler.ts:24](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/text-handler.ts#L24)
 
 ## Methods
 
@@ -95,7 +95,7 @@ Activate the handler
 
 #### Source
 
-[editor.ts:1363](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1363)
+[editor.ts:1363](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1363)
 
 ***
 
@@ -119,7 +119,7 @@ Trigger when the handler action is complete
 
 #### Source
 
-[editor.ts:1354](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1354)
+[editor.ts:1354](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1354)
 
 ***
 
@@ -143,7 +143,7 @@ Deactivate the handler
 
 #### Source
 
-[editor.ts:1371](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1371)
+[editor.ts:1371](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1371)
 
 ***
 
@@ -167,7 +167,7 @@ Draw ghost for the selected shape
 
 #### Source
 
-[editor.ts:1416](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1416)
+[editor.ts:1416](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1416)
 
 ***
 
@@ -193,7 +193,7 @@ keyDown
 
 #### Source
 
-[editor.ts:1406](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1406)
+[editor.ts:1406](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1406)
 
 ***
 
@@ -219,7 +219,7 @@ keyUp
 
 #### Source
 
-[editor.ts:1411](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1411)
+[editor.ts:1411](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1411)
 
 ***
 
@@ -243,7 +243,7 @@ Triggered when activated
 
 #### Source
 
-[handlers/text-handler.ts:46](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/text-handler.ts#L46)
+[handlers/text-handler.ts:46](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/text-handler.ts#L46)
 
 ***
 
@@ -267,7 +267,7 @@ Triggered when deactivate
 
 #### Source
 
-[handlers/text-handler.ts:50](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/text-handler.ts#L50)
+[handlers/text-handler.ts:50](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/text-handler.ts#L50)
 
 ***
 
@@ -293,7 +293,7 @@ pointerDown
 
 #### Source
 
-[handlers/text-handler.ts:34](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/text-handler.ts#L34)
+[handlers/text-handler.ts:34](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/text-handler.ts#L34)
 
 ***
 
@@ -321,7 +321,7 @@ pointerMove
 
 #### Source
 
-[editor.ts:1401](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1401)
+[editor.ts:1401](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1401)
 
 ***
 
@@ -349,7 +349,7 @@ pointerUp
 
 #### Source
 
-[editor.ts:1395](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1395)
+[editor.ts:1395](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1395)
 
 ***
 
@@ -369,4 +369,4 @@ Reset the states of handler
 
 #### Source
 
-[handlers/text-handler.ts:26](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/text-handler.ts#L26)
+[handlers/text-handler.ts:26](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/text-handler.ts#L26)

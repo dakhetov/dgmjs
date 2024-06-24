@@ -33,7 +33,7 @@ Rectangle Factory Handler
 
 #### Source
 
-[editor.ts:1337](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1337)
+[editor.ts:1337](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1337)
 
 ## Properties
 
@@ -43,7 +43,7 @@ Rectangle Factory Handler
 
 #### Source
 
-[handlers/rectangle-handler.ts:14](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L14)
+[handlers/rectangle-handler.ts:14](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L14)
 
 ***
 
@@ -53,7 +53,7 @@ Rectangle Factory Handler
 
 #### Source
 
-[handlers/rectangle-handler.ts:13](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L13)
+[handlers/rectangle-handler.ts:13](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L13)
 
 ***
 
@@ -63,7 +63,7 @@ Rectangle Factory Handler
 
 #### Source
 
-[handlers/rectangle-handler.ts:12](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L12)
+[handlers/rectangle-handler.ts:12](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L12)
 
 ***
 
@@ -77,7 +77,7 @@ Rectangle Factory Handler
 
 #### Source
 
-[editor.ts:1334](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1334)
+[editor.ts:1334](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1334)
 
 ***
 
@@ -91,7 +91,7 @@ Rectangle Factory Handler
 
 #### Source
 
-[editor.ts:1335](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
+[editor.ts:1335](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
 
 ***
 
@@ -101,7 +101,7 @@ Rectangle Factory Handler
 
 #### Source
 
-[handlers/rectangle-handler.ts:15](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L15)
+[handlers/rectangle-handler.ts:15](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L15)
 
 ## Methods
 
@@ -125,7 +125,7 @@ Activate the handler
 
 #### Source
 
-[editor.ts:1363](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1363)
+[editor.ts:1363](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1363)
 
 ***
 
@@ -149,7 +149,7 @@ Trigger when the handler action is complete
 
 #### Source
 
-[editor.ts:1354](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1354)
+[editor.ts:1354](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1354)
 
 ***
 
@@ -173,7 +173,7 @@ Deactivate the handler
 
 #### Source
 
-[editor.ts:1371](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1371)
+[editor.ts:1371](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1371)
 
 ***
 
@@ -193,7 +193,7 @@ Deactivate the handler
 
 #### Source
 
-[handlers/rectangle-handler.ts:133](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L133)
+[handlers/rectangle-handler.ts:133](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L133)
 
 ***
 
@@ -213,7 +213,7 @@ Deactivate the handler
 
 #### Source
 
-[handlers/rectangle-handler.ts:131](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L131)
+[handlers/rectangle-handler.ts:131](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L131)
 
 ***
 
@@ -237,7 +237,7 @@ Draw ghost for the selected shape
 
 #### Source
 
-[editor.ts:1416](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1416)
+[editor.ts:1416](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1416)
 
 ***
 
@@ -257,7 +257,7 @@ Draw ghost for the selected shape
 
 #### Source
 
-[handlers/rectangle-handler.ts:55](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L55)
+[handlers/rectangle-handler.ts:55](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L55)
 
 ***
 
@@ -277,7 +277,7 @@ Draw ghost for the selected shape
 
 #### Source
 
-[handlers/rectangle-handler.ts:24](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L24)
+[handlers/rectangle-handler.ts:24](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L24)
 
 ***
 
@@ -303,7 +303,7 @@ keyDown
 
 #### Source
 
-[handlers/rectangle-handler.ts:113](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L113)
+[handlers/rectangle-handler.ts:113](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L113)
 
 ***
 
@@ -329,7 +329,7 @@ keyUp
 
 #### Source
 
-[editor.ts:1411](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/editor.ts#L1411)
+[editor.ts:1411](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1411)
 
 ***
 
@@ -353,7 +353,7 @@ Triggered when activated
 
 #### Source
 
-[handlers/rectangle-handler.ts:123](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L123)
+[handlers/rectangle-handler.ts:123](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L123)
 
 ***
 
@@ -377,7 +377,7 @@ Triggered when deactivate
 
 #### Source
 
-[handlers/rectangle-handler.ts:127](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L127)
+[handlers/rectangle-handler.ts:127](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L127)
 
 ***
 
@@ -403,7 +403,7 @@ pointerDown
 
 #### Source
 
-[handlers/rectangle-handler.ts:71](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L71)
+[handlers/rectangle-handler.ts:71](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L71)
 
 ***
 
@@ -429,7 +429,7 @@ pointerMove
 
 #### Source
 
-[handlers/rectangle-handler.ts:87](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L87)
+[handlers/rectangle-handler.ts:87](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L87)
 
 ***
 
@@ -455,7 +455,7 @@ pointerUp
 
 #### Source
 
-[handlers/rectangle-handler.ts:104](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L104)
+[handlers/rectangle-handler.ts:104](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L104)
 
 ***
 
@@ -475,7 +475,7 @@ Reset the states of handler
 
 #### Source
 
-[handlers/rectangle-handler.ts:17](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L17)
+[handlers/rectangle-handler.ts:17](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L17)
 
 ***
 
@@ -495,4 +495,4 @@ Reset the states of handler
 
 #### Source
 
-[handlers/rectangle-handler.ts:38](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L38)
+[handlers/rectangle-handler.ts:38](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/handlers/rectangle-handler.ts#L38)

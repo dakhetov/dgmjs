@@ -19,7 +19,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:290](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L290)
+[graphics/memoization-canvas.ts:290](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L290)
 
 ## Properties
 
@@ -29,7 +29,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:287](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L287)
+[graphics/memoization-canvas.ts:287](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L287)
 
 ***
 
@@ -39,7 +39,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:277](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L277)
+[graphics/memoization-canvas.ts:277](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L277)
 
 ***
 
@@ -49,7 +49,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:278](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L278)
+[graphics/memoization-canvas.ts:278](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L278)
 
 ***
 
@@ -59,7 +59,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:283](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L283)
+[graphics/memoization-canvas.ts:283](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L283)
 
 ***
 
@@ -69,7 +69,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:284](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L284)
+[graphics/memoization-canvas.ts:284](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L284)
 
 ***
 
@@ -79,7 +79,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:286](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L286)
+[graphics/memoization-canvas.ts:286](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L286)
 
 ***
 
@@ -89,7 +89,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:285](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L285)
+[graphics/memoization-canvas.ts:285](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L285)
 
 ***
 
@@ -99,7 +99,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:279](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L279)
+[graphics/memoization-canvas.ts:279](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L279)
 
 ***
 
@@ -109,7 +109,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:288](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L288)
+[graphics/memoization-canvas.ts:288](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L288)
 
 ***
 
@@ -119,7 +119,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:280](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L280)
+[graphics/memoization-canvas.ts:280](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L280)
 
 ***
 
@@ -129,7 +129,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:282](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L282)
+[graphics/memoization-canvas.ts:282](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L282)
 
 ***
 
@@ -139,7 +139,7 @@ Memoization Canvas
 
 #### Source
 
-[graphics/memoization-canvas.ts:281](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L281)
+[graphics/memoization-canvas.ts:281](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L281)
 
 ## Methods
 
@@ -169,7 +169,7 @@ Draw an arc
 
 #### Source
 
-[graphics/memoization-canvas.ts:944](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L944)
+[graphics/memoization-canvas.ts:946](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L946)
 
 ***
 
@@ -183,7 +183,7 @@ Draw an arc
 
 #### Source
 
-[graphics/memoization-canvas.ts:304](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L304)
+[graphics/memoization-canvas.ts:304](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L304)
 
 ***
 
@@ -205,7 +205,7 @@ Draw a curve
 
 #### Source
 
-[graphics/memoization-canvas.ts:790](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L790)
+[graphics/memoization-canvas.ts:792](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L792)
 
 ***
 
@@ -225,7 +225,7 @@ Draw memoized drawing objects
 
 #### Source
 
-[graphics/memoization-canvas.ts:1111](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1111)
+[graphics/memoization-canvas.ts:1115](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1115)
 
 ***
 
@@ -255,7 +255,7 @@ Draw Image
 
 #### Source
 
-[graphics/memoization-canvas.ts:1076](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1076)
+[graphics/memoization-canvas.ts:1080](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1080)
 
 ***
 
@@ -283,7 +283,7 @@ Draw an ellipse
 
 #### Source
 
-[graphics/memoization-canvas.ts:701](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L701)
+[graphics/memoization-canvas.ts:703](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L703)
 
 ***
 
@@ -313,7 +313,7 @@ Draw filled arc. angles are started from 12'clock in degree.
 
 #### Source
 
-[graphics/memoization-canvas.ts:903](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L903)
+[graphics/memoization-canvas.ts:905](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L905)
 
 ***
 
@@ -335,7 +335,7 @@ Draw filled curved lines
 
 #### Source
 
-[graphics/memoization-canvas.ts:762](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L762)
+[graphics/memoization-canvas.ts:764](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L764)
 
 ***
 
@@ -363,7 +363,7 @@ Draw a filled ellipse
 
 #### Source
 
-[graphics/memoization-canvas.ts:658](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L658)
+[graphics/memoization-canvas.ts:660](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L660)
 
 ***
 
@@ -385,7 +385,7 @@ Draw filled path
 
 #### Source
 
-[graphics/memoization-canvas.ts:987](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L987)
+[graphics/memoization-canvas.ts:990](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L990)
 
 ***
 
@@ -407,7 +407,7 @@ Draw filled polygon
 
 #### Source
 
-[graphics/memoization-canvas.ts:825](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L825)
+[graphics/memoization-canvas.ts:827](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L827)
 
 ***
 
@@ -435,7 +435,7 @@ Draw a filled rect
 
 #### Source
 
-[graphics/memoization-canvas.ts:449](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L449)
+[graphics/memoization-canvas.ts:449](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L449)
 
 ***
 
@@ -465,7 +465,7 @@ Draw a filled round rect
 
 #### Source
 
-[graphics/memoization-canvas.ts:546](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L546)
+[graphics/memoization-canvas.ts:547](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L547)
 
 ***
 
@@ -491,7 +491,7 @@ text baseline (metric.ascent - not the top of text)
 
 #### Source
 
-[graphics/memoization-canvas.ts:1060](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1060)
+[graphics/memoization-canvas.ts:1064](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1064)
 
 ***
 
@@ -519,7 +519,7 @@ Draw a line
 
 #### Source
 
-[graphics/memoization-canvas.ts:387](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L387)
+[graphics/memoization-canvas.ts:387](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L387)
 
 ***
 
@@ -541,7 +541,7 @@ Draw a path
 
 #### Source
 
-[graphics/memoization-canvas.ts:1016](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1016)
+[graphics/memoization-canvas.ts:1020](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1020)
 
 ***
 
@@ -563,7 +563,7 @@ Draw a polygon
 
 #### Source
 
-[graphics/memoization-canvas.ts:853](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L853)
+[graphics/memoization-canvas.ts:855](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L855)
 
 ***
 
@@ -585,7 +585,7 @@ Draw polyline
 
 #### Source
 
-[graphics/memoization-canvas.ts:710](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L710)
+[graphics/memoization-canvas.ts:712](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L712)
 
 ***
 
@@ -613,7 +613,7 @@ Draw a rect
 
 #### Source
 
-[graphics/memoization-canvas.ts:484](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L484)
+[graphics/memoization-canvas.ts:484](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L484)
 
 ***
 
@@ -643,7 +643,7 @@ Draw a round rect
 
 #### Source
 
-[graphics/memoization-canvas.ts:601](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L601)
+[graphics/memoization-canvas.ts:603](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L603)
 
 ***
 
@@ -663,7 +663,7 @@ Set alpha
 
 #### Source
 
-[graphics/memoization-canvas.ts:371](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L371)
+[graphics/memoization-canvas.ts:371](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L371)
 
 ***
 
@@ -681,7 +681,7 @@ Set alpha
 
 #### Source
 
-[graphics/memoization-canvas.ts:308](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L308)
+[graphics/memoization-canvas.ts:308](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L308)
 
 ***
 
@@ -701,7 +701,7 @@ Set fill color
 
 #### Source
 
-[graphics/memoization-canvas.ts:339](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L339)
+[graphics/memoization-canvas.ts:339](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L339)
 
 ***
 
@@ -721,7 +721,7 @@ Set fill style
 
 #### Source
 
-[graphics/memoization-canvas.ts:347](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L347)
+[graphics/memoization-canvas.ts:347](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L347)
 
 ***
 
@@ -741,7 +741,7 @@ Set font
 
 #### Source
 
-[graphics/memoization-canvas.ts:363](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L363)
+[graphics/memoization-canvas.ts:363](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L363)
 
 ***
 
@@ -761,7 +761,7 @@ Set font color
 
 #### Source
 
-[graphics/memoization-canvas.ts:355](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L355)
+[graphics/memoization-canvas.ts:355](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L355)
 
 ***
 
@@ -781,7 +781,7 @@ Set roughness
 
 #### Source
 
-[graphics/memoization-canvas.ts:379](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L379)
+[graphics/memoization-canvas.ts:379](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L379)
 
 ***
 
@@ -801,7 +801,7 @@ Set stroke color
 
 #### Source
 
-[graphics/memoization-canvas.ts:315](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L315)
+[graphics/memoization-canvas.ts:315](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L315)
 
 ***
 
@@ -821,7 +821,7 @@ Set stroke pattern
 
 #### Source
 
-[graphics/memoization-canvas.ts:331](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L331)
+[graphics/memoization-canvas.ts:331](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L331)
 
 ***
 
@@ -841,7 +841,7 @@ Set stroke width
 
 #### Source
 
-[graphics/memoization-canvas.ts:323](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L323)
+[graphics/memoization-canvas.ts:323](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L323)
 
 ***
 
@@ -871,7 +871,7 @@ Draw an arc. angles are started from 3'clock in degree (0~360).
 
 #### Source
 
-[graphics/memoization-canvas.ts:862](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L862)
+[graphics/memoization-canvas.ts:864](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L864)
 
 ***
 
@@ -893,7 +893,7 @@ Draw curved lines
 
 #### Source
 
-[graphics/memoization-canvas.ts:736](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L736)
+[graphics/memoization-canvas.ts:738](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L738)
 
 ***
 
@@ -921,7 +921,7 @@ Draw an ellipse
 
 #### Source
 
-[graphics/memoization-canvas.ts:617](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L617)
+[graphics/memoization-canvas.ts:619](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L619)
 
 ***
 
@@ -953,7 +953,7 @@ Taper at the end of the path value must be 0~1
 
 #### Source
 
-[graphics/memoization-canvas.ts:1030](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1030)
+[graphics/memoization-canvas.ts:1034](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1034)
 
 ***
 
@@ -975,7 +975,7 @@ Draw a path
 
 #### Source
 
-[graphics/memoization-canvas.ts:960](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L960)
+[graphics/memoization-canvas.ts:962](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L962)
 
 ***
 
@@ -997,7 +997,7 @@ Draw polygon
 
 #### Source
 
-[graphics/memoization-canvas.ts:799](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L799)
+[graphics/memoization-canvas.ts:801](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L801)
 
 ***
 
@@ -1025,7 +1025,7 @@ Draw a rect lines
 
 #### Source
 
-[graphics/memoization-canvas.ts:416](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L416)
+[graphics/memoization-canvas.ts:416](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L416)
 
 ***
 
@@ -1055,7 +1055,7 @@ Draw a round rect lines
 
 #### Source
 
-[graphics/memoization-canvas.ts:493](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L493)
+[graphics/memoization-canvas.ts:493](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L493)
 
 ***
 
@@ -1075,4 +1075,4 @@ Get Text Metric
 
 #### Source
 
-[graphics/memoization-canvas.ts:1103](https://github.com/dgmjs/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1103)
+[graphics/memoization-canvas.ts:1107](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/graphics/memoization-canvas.ts#L1107)
