@@ -40,7 +40,7 @@ Handler
 
 #### Source
 
-[editor.ts:1338](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1338)
+[editor.ts:1349](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1349)
 
 ## Properties
 
@@ -50,7 +50,7 @@ Handler
 
 #### Source
 
-[editor.ts:1335](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
+[editor.ts:1346](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1346)
 
 ***
 
@@ -60,7 +60,7 @@ Handler
 
 #### Source
 
-[editor.ts:1336](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1336)
+[editor.ts:1347](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1347)
 
 ## Methods
 
@@ -80,7 +80,7 @@ Activate the handler
 
 #### Source
 
-[editor.ts:1364](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1364)
+[editor.ts:1375](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1375)
 
 ***
 
@@ -100,7 +100,7 @@ Trigger when the handler action is complete
 
 #### Source
 
-[editor.ts:1355](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1355)
+[editor.ts:1366](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1366)
 
 ***
 
@@ -120,7 +120,7 @@ Deactivate the handler
 
 #### Source
 
-[editor.ts:1372](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1372)
+[editor.ts:1383](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1383)
 
 ***
 
@@ -140,7 +140,7 @@ Draw ghost for the selected shape
 
 #### Source
 
-[editor.ts:1417](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1417)
+[editor.ts:1428](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1428)
 
 ***
 
@@ -162,7 +162,7 @@ keyDown
 
 #### Source
 
-[editor.ts:1407](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1407)
+[editor.ts:1418](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1418)
 
 ***
 
@@ -184,7 +184,7 @@ keyUp
 
 #### Source
 
-[editor.ts:1412](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1412)
+[editor.ts:1423](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1423)
 
 ***
 
@@ -204,7 +204,7 @@ Triggered when activated
 
 #### Source
 
-[editor.ts:1379](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1379)
+[editor.ts:1390](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1390)
 
 ***
 
@@ -224,7 +224,7 @@ Triggered when deactivate
 
 #### Source
 
-[editor.ts:1384](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1384)
+[editor.ts:1395](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1395)
 
 ***
 
@@ -248,7 +248,7 @@ pointerDown
 
 #### Source
 
-[editor.ts:1390](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1390)
+[editor.ts:1401](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1401)
 
 ***
 
@@ -272,7 +272,7 @@ pointerMove
 
 #### Source
 
-[editor.ts:1402](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1402)
+[editor.ts:1413](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1413)
 
 ***
 
@@ -296,7 +296,7 @@ pointerUp
 
 #### Source
 
-[editor.ts:1396](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1396)
+[editor.ts:1407](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1407)
 
 ***
 
@@ -312,4 +312,4 @@ Reset the states of handler
 
 #### Source
 
-[editor.ts:1350](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1350)
+[editor.ts:1361](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1361)
