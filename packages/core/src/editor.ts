@@ -595,12 +595,17 @@ export class Editor {
             this.actions.insert(textShape);
             this.factory.triggerCreate(textShape);
           }
-          // create a text on connector
+          // create a text on shapes
           if (
             this.options.allowCreateTextOnConnector &&
-            (shape instanceof Connector || shape instanceof Rectangle)
-          ) {
-            // TODO: () Текст должен создаваться по центру прямоугольника  
+            (
+              shape instanceof Connector || 
+              shape instanceof Rectangle ||
+              shape?.type === 'Image'
+            )
+          ) {            
+            // TODO: (GCT-15) Текст должен создаваться по центру прямоугольника
+            // TODO: (GCT-18) Текст на картинке виден только в пределах картинки
             const outline = shape.getOutline();
             const nearest = geometry.findNearestOnPath(
               [x, y],
