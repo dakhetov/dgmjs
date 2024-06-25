@@ -33,7 +33,7 @@ Select Handler
 
 #### Source
 
-[editor.ts:1337](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1337)
+[editor.ts:1338](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1338)
 
 ## Properties
 
@@ -67,7 +67,7 @@ Select Handler
 
 #### Source
 
-[editor.ts:1334](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1334)
+[editor.ts:1335](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
 
 ***
 
@@ -81,7 +81,7 @@ Select Handler
 
 #### Source
 
-[editor.ts:1335](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1335)
+[editor.ts:1336](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1336)
 
 ## Methods
 
@@ -105,7 +105,7 @@ Activate the handler
 
 #### Source
 
-[editor.ts:1363](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1363)
+[editor.ts:1364](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1364)
 
 ***
 
@@ -129,7 +129,7 @@ Trigger when the handler action is complete
 
 #### Source
 
-[editor.ts:1354](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1354)
+[editor.ts:1355](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1355)
 
 ***
 
@@ -153,7 +153,7 @@ Deactivate the handler
 
 #### Source
 
-[editor.ts:1371](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1371)
+[editor.ts:1372](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1372)
 
 ***
 
@@ -275,7 +275,7 @@ Triggered when activated
 
 #### Source
 
-[editor.ts:1378](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1378)
+[editor.ts:1379](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1379)
 
 ***
 
@@ -299,7 +299,7 @@ Triggered when deactivate
 
 #### Source
 
-[editor.ts:1383](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1383)
+[editor.ts:1384](https://github.com/dakhetov/dgmjs/blob/main/packages/core/src/editor.ts#L1384)
 
 ***
 
