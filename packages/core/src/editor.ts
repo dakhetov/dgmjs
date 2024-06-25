@@ -12,7 +12,7 @@
  */
 
 import { Canvas, CanvasPointerEvent, FillStyle } from "./graphics/graphics";
-import { Connector, Doc, Shape, Page, shapeInstantiator } from "./shapes";
+import { Connector, Doc, Shape, Page, shapeInstantiator, Rectangle } from "./shapes";
 import { Cursor, Color, Mouse, CONTROL_POINT_APOTHEM } from "./graphics/const";
 import { assert } from "./std/assert";
 import * as geometry from "./graphics/geometry";
@@ -587,7 +587,7 @@ export class Editor {
             pred
           ) as Shape | null;
           // create a text on canvas
-          if (this.options.allowCreateTextOnCanvas && !shape) {
+          if (this.options.allowCreateTextOnCanvas && !shape) {            
             const textShape = this.factory.createText([
               [x, y],
               [x, y],
@@ -598,8 +598,9 @@ export class Editor {
           // create a text on connector
           if (
             this.options.allowCreateTextOnConnector &&
-            shape instanceof Connector
+            (shape instanceof Connector || shape instanceof Rectangle)
           ) {
+            // TODO: () Текст должен создаваться по центру прямоугольника  
             const outline = shape.getOutline();
             const nearest = geometry.findNearestOnPath(
               [x, y],
@@ -608,11 +609,12 @@ export class Editor {
             );
             const position = nearest
               ? geometry.getPositionOnPath(outline, nearest)
-              : 0.5;
+              : 0.5;            
             const textShape = this.factory.createAnchoredText(position);
             this.actions.insert(textShape, shape);
             this.factory.triggerCreate(textShape);
-          }
+            return;
+          }          
           // trigger double click event
           this.onDblClick.emit({ shape, point: [x, y] });
         }
