@@ -293,7 +293,7 @@ export const DGMTextInplaceEditor: React.FC<DGMTextInplaceEditorProps> = ({
               textHeight={state.textHeight}
               paragraphSpacing={state.paragraphSpacing}
               alignItems={state.alignItems}
-              onBlur={() => {}}
+              onBlur={close}
               onKeyDown={handleKeyDown}
             />
           </div>
