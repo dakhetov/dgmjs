@@ -71,7 +71,7 @@ export class BoxCreateConnectorController extends Controller {
       editor.selection.size() === 1 &&
       editor.selection.isSelected(shape) &&
       shape.connectable;
-    return value;
+    return false;
   }
 
   /**
