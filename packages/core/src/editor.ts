@@ -570,62 +570,6 @@ export class Editor {
       }
     });
 
-    // mouse double click
-    this.canvasElement.addEventListener("dblclick", (e) => {
-      if (this.enabled) {
-        this.focus();
-        this.selection.deselectAll();
-        const event = createPointerEvent(this.canvasElement, this.canvas, e);
-        const p = this.canvas.globalCoordTransformRev([event.x, event.y]);
-        const x = p[0];
-        const y = p[1];
-        if (this.currentPage) {
-          // allows double click on a disable shape (e.g. a text inside another shape)
-          const pred = (s: Obj) =>
-            (s as Shape).visible && (s as Shape).containsPoint(this.canvas, p);
-          const shape: Shape | null = this.currentPage.findDepthFirst(
-            pred
-          ) as Shape | null;
-          // create a text on canvas
-          if (this.options.allowCreateTextOnCanvas && !shape) {            
-            const textShape = this.factory.createText([
-              [x, y],
-              [x, y],
-            ]);
-            this.actions.insert(textShape);
-            this.factory.triggerCreate(textShape);
-          }
-          // create a text on shapes
-          if (
-            this.options.allowCreateTextOnConnector &&
-            (
-              shape instanceof Connector || 
-              shape instanceof Rectangle ||
-              shape?.type === 'Image'
-            )
-          ) {            
-            // TODO: (GCT-15) Текст должен создаваться по центру прямоугольника
-            // TODO: (GCT-18) Текст на картинке виден только в пределах картинки
-            const outline = shape.getOutline();
-            const nearest = geometry.findNearestOnPath(
-              [x, y],
-              outline,
-              CONTROL_POINT_APOTHEM * 2
-            );
-            const position = nearest
-              ? geometry.getPositionOnPath(outline, nearest)
-              : 0.5;            
-            const textShape = this.factory.createAnchoredText(position);
-            this.actions.insert(textShape, shape);
-            this.factory.triggerCreate(textShape);
-            return;
-          }          
-          // trigger double click event
-          this.onDblClick.emit({ shape, point: [x, y] });
-        }
-      }
-    });
-
     // mouse wheel event
     this.canvasElement.addEventListener("wheel", (e) => {
       if (this.enabled) {
